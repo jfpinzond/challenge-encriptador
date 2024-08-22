@@ -52,7 +52,7 @@ main{
 .mensaje {
     background: rgb(80, 76, 76);
     color: rgb(194, 178, 59);
-    background-image: url(/imagenes/abierto.png);
+    background-image: url(imagenes/abierto.png);
     font-size: 30px;
     font-family: play;
     background-size: 80px;
